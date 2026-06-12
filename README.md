@@ -2,4 +2,4 @@
 Trees AES site
 
 - [FarmlandLLC-Model](./FarmlandLLC-Model)
-- [Farmland Merger Architecture](./Farmland-Merger-Architecture.pdf)
+- [Farmland Merger Architecture](./Farmland_Merger_Architecture.pdf)
