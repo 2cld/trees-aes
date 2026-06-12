@@ -48,3 +48,7 @@ A key component of the model is professionalizing labor and equipment management
     By paying working descendants a fair market W-2 wage, the farm can use data to determine where labor is most profitable and settle "repair vs. trade-in" debates with hard numbers.  This structure ensures that family members are compensated fairly for their effort while their underlying equity remains protected.
   - **Use Traditional income tax protection**
     By using 'fair market wage payments'  The current working generation can evaluate where best to invest their time (base pay) and tax defered (IRA) savings.  The structure intends to provide 'employee investment' using traditional 'start-up' stock insentives and SDIRA portfolio oppertunites.
+  - **Liablity Firewalls**
+    By using well defined operational and buy-sell agrements each LLC has clear, legally binding intent and auditable proceedures.  This provides better liablity 'containment'.
+
+
