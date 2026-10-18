@@ -69,6 +69,9 @@ https://www.sandhfuneralservice.com/obituary/Alan-Trees
 https://www.sandhfuneralservice.com/obituary/Alice-Trees
 https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-8/district-8-judges-and-magistrates/wyatt-peterson
 https://www.seialaw.com/attorneys/sara-l-haas/
+https://www.iowacourts.state.ia.us/ESAWebApp/TIndexFrm
+https://sos.iowa.gov/search/business/search.aspx
+https://henrycounty.iowa.gov/recorder/
 
 Title: ESTATE OF ALICE ANNE TREES
 Case: 08441 ESPR006300 (HENRY)
