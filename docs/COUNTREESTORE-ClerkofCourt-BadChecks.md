@@ -6,7 +6,7 @@ Mount Pleasant IA 52641                             Winfield IA 52659
 
 To the Clerk of the District Court:
 
-I received check 48451 in the amount of $25.92 for case 08441 SMSM005028 payable to COUNTREESTORE C/O Alan Trees.  I received another letter on 08/30/2026 requesting I cash the check, but Pilot Grove Savings Bank of Winfield could not cash the check as both COUNTREESTORE and Alan Trees accounts were closed after Alan and Alice Trees passing and estate closure.
+I received check 48451 in the amount of $25.92 for case 08441 SMSM005028 payable to COUNTREESTORE C/O Alan Trees.  I received another letter on 08/30/2026 requesting I cash the check, but Pilot Grove Savings Bank of Winfield could not cash the check as both COUNTREESTORE and Alan Trees' accounts were closed after Alan and Alice Trees passing and estate closure.
 
 I researched this and other possible pending payments to COUTREESTORE C/O Alan Trees and found the below information.  Regarding RESTITUTION payments for the following cases:
 
@@ -47,7 +47,7 @@ Winfield IA 52659
 
 ---
 
-COUNTREESTORE was owned by Alan and Alice Trees of Winfield.  Alan died in 2019,  Alice died in 2023.  Alice Trees Estate heirs formed Trees AES, LLC to recieve the assets from the Alice Trees Estate.  Wyatt Peterson was legal console for COUNTREESTORE (Alan and Alice) of Winfield and may be familiar with the cases.  Sara Haas was the attorney for the Alice Trees Estate (filings below).
+COUNTREESTORE was owned by Alan and Alice Trees of Winfield.  Alan died in 2019,  Alice died in 2023.  Alice Trees Estate heirs formed Trees AES, LLC to receive the assets from the Alice Trees Estate.  Wyatt Peterson was legal counsel for COUNTREESTORE (Alan and Alice) of Winfield and may be familiar with the cases.  Sara Haas was the attorney for the Alice Trees Estate (filings below).
 
 
      Thank you
