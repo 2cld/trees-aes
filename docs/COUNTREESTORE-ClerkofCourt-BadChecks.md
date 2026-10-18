@@ -38,13 +38,21 @@ TREES AES, LLC
 PO Box 96
 Winfield IA 52659
 
+
+
+
+
 COUNTREESTORE was owned by Alan and Alice Trees of Winfield.  Alan died in 2019,  Alice died in 2023.  Alice Trees Estate heirs formed Trees AES, LLC to recieve the assets from the Alice Trees Estate.  Wyatt Peterson was legal console for COUNTREESTORE (Alan and Alice) of Winfield and may be familiar with the cases.  Sara Haas was the attorney for the Alice Trees Estate (filings below).
 
-                                                      Thank you
+
+                                          Thank you
                                                       
                                                       
-                                                      Chris Trees
-                                                      Trees AES, LLC
+                                          Chris Trees (Manager)
+                                          Trees AES, LLC
+                                          PO Box 96
+                                          Winfield, IA 52659
+                                          (515) 999-0007
 
 References
 https://www.sandhfuneralservice.com/obituary/Alan-Trees
