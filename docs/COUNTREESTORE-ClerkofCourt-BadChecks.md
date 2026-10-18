@@ -4,16 +4,12 @@ Henry County Courthouse                             Trees AES, LLC
 Mount Pleasant IA 52641                             Winfield IA 52659
 (319) 385-3150                                      (515) 999-0007
 
-
 To the Clerk of the District Court:
 
 I received check 48451 in the amount of $25.92 for case 08441 SMSM005028 payable to COUNTREESTORE C/O Alan Trees.  I received another letter on 08/30/2026 requesting I cash the check, but Pilot Grove Savings Bank of Winfield could not cash the check as both COUNTREESTORE and Alan Trees accounts were closed after Alan and Alice Trees passing and estate closure.
 
-I researched this and other possible pending payments to COUTREESTORE C/O Alan Trees and found the below information.
+I researched this and other possible pending payments to COUTREESTORE C/O Alan Trees and found the below information.  Regarding RESTITUTION payments for the following cases:
 
-Regarding RESTITUTION payments for the following cases:
-
----
 Case ID	Initiated Date	Title	Name	DOB	Role
 ---
 08441  AGIN001078	08/08/1989	ST VS STOTT, RHONDA SUE	COUNTREESTORE	 	RESTITUTION/COMMUNITY SERV OFF
@@ -28,7 +24,6 @@ Case ID	Initiated Date	Title	Name	DOB	Role
 08441  SMSM006632	05/13/2008	ST VS BREUER, ANDREW M	COUNTREESTORE	 	RESTITUTION/COMMUNITY SERV OFF
 08441  SMSM006633	05/13/2008	ST VS JOHNSON, KEVIN TYRONE	COUNTREESTORE	 	RESTITUTION/COMMUNITY SERV OFF
 08441  SMSM006817	09/18/2008	ST VS ELMORE, TRAVIS SHANE	COUNTREESTORE	 	RESTITUTION/COMMUNITY SERV OFF
----
 
 The RESTITUTION payments are currently paid to the order of:
 
@@ -43,11 +38,7 @@ TREES AES, LLC
 PO Box 96
 Winfield IA 52659
 
-COUNTREESTORE was owned by Alan and Alice Trees of Winfield.  Alan died in 2019,  Alice died in 2023.  Alice Trees Estate heirs formed Trees AES, LLC to recieve the assets from the Alice Trees Estate.
-
-Wyatt Peterson was legal console for COUNTREESTORE (Alan and Alice) of Winfield and may be familiar with the cases.
-
-Sara Haas was the attorney for the Alice Trees Estate (filings below).
+COUNTREESTORE was owned by Alan and Alice Trees of Winfield.  Alan died in 2019,  Alice died in 2023.  Alice Trees Estate heirs formed Trees AES, LLC to recieve the assets from the Alice Trees Estate.  Wyatt Peterson was legal console for COUNTREESTORE (Alan and Alice) of Winfield and may be familiar with the cases.  Sara Haas was the attorney for the Alice Trees Estate (filings below).
 
 References
 https://www.sandhfuneralservice.com/obituary/Alan-Trees
@@ -55,8 +46,6 @@ https://www.sandhfuneralservice.com/obituary/Alice-Trees
 https://www.iowacourts.gov/iowa-courts/district-court/judicial-district-8/district-8-judges-and-magistrates/wyatt-peterson
 https://www.seialaw.com/attorneys/sara-l-haas/
 
----
-Filings
 Title: ESTATE OF ALICE ANNE TREES
 Case: 08441 ESPR006300 (HENRY)
 Citation Number:
