@@ -25,6 +25,8 @@ Case ID	Initiated Date	Title	Name	DOB	Role
 08441  SMSM006633	05/13/2008	ST VS JOHNSON, KEVIN TYRONE	COUNTREESTORE	 	RESTITUTION/COMMUNITY SERV OFF
 08441  SMSM006817	09/18/2008	ST VS ELMORE, TRAVIS SHANE	COUNTREESTORE	 	RESTITUTION/COMMUNITY SERV OFF
 
+---
+
 The RESTITUTION payments are currently paid to the order of:
 
 COUNTREESTORE
@@ -32,13 +34,15 @@ C/O ALAN TREES
 2455 120TH ST
 WINFIELD IA 52659
 
+---
+
 These payments can't be cashed because Alan Trees is deceased and COUNTREESTORE is no longer an active business. The restitution payments for the above cases should be paid to the order of:
 
 TREES AES, LLC
 PO Box 96
 Winfield IA 52659
 
-
+---
 
 
 
